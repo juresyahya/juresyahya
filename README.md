@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juresyahya
 - 👀 I’m interested in PHP Laravel, NodeJs, VueJS
 - 🌱 I’m currently learning Design Pattern and Functional Programming
-- 💞️ I’m looking to collaborate with other developers who wanted to develop integration plugins for our Enterprise Client.
+- 💞️ I’m looking to collaborate with other developers who wanted to develop integration plugins for our Enterprise Client
 - 📫 How to reach me jures@osprov.com
 
 <!---
